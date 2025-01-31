@@ -1,1 +1,29 @@
+Steps to Create a Digital Comic Strip Creator Platform UI in Figma
+1. Create a simple page to explain what is the topic about.
+2. Landing Page
+•	Open Figma and create a new frame (Desktop 1440px width recommended).
+•	Add a bold header with the platform’s name and tagline.
+•	Design a call-to-action (CTA) button (e.g., "Start Creating").
+•	Include a carousel or preview section showcasing popular comics.
+•	Use vibrant comic-style colors and fonts.
+3. User Dashboard
+•	Create a new frame for the dashboard.
+•	Add a sidebar with navigation options (e.g., Home, My Comics, Templates, Community).
+•	Display user-created comics in a grid format with thumbnail previews.
+•	Include a "Create New Comic" button prominently.
+4. About
+•	Design a about page which shows the creator and the basic details about the creator of the platform.
+5. Homepage
+•	Create an interactive sidebar where users can modify text, character expressions, and colors.
+•	Add options to change panel layouts and adjust the frame structure.
+•	Ensure smooth UX with intuitive sliders and dropdown menus.
+6. Profile & Settings
+•	Design a user profile page with avatar, username, and bio.
+•	Display user’s created comics in a structured format.
+•	Add settings for account management, privacy, and notifications.
+Final Touches
+•	Maintain a consistent comic-inspired theme with appropriate fonts and colors.
+•	Use auto-layout in Figma for responsive design.
+•	Test user flows to ensure seamless navigation and usability.
+
 
